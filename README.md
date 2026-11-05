@@ -1,4 +1,4 @@
-# Welcome to the world of Cassette Video!
+Original decoder by Kris Slyka (Nuclear Lighthouse Studios): https://git.sr.ht/~slyka/cassette-video-decoder. MIT License.# Welcome to the world of Cassette Video!
 
 This is the decoder for the cassette video format, a way to turn videos into audio to put them on normal compact audio cassettes.
 
